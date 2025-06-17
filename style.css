@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Krona+One&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Playfair+Display+SC:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap');
 
 :root {
-    --cor-primaria: #6D071A;
-    --cor-secundaria: #3B1D52;
-    --cor-terciaria: #2C2C2C;
+    --cor-primaria: #D90429;
+    --cor-secundaria: #FF4500;
+    --cor-terciaria: #0D0D0D;
     --cor-texto: #F8F8FF;
 
     --fonte-primaria: "Cinzel Decorative", serif; ;
